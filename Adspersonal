@@ -29196,7 +29196,6 @@
 ||metrics.km.getgitorious.com^
 ||api-telemetry.servers.getgo.com^
 ||telemetry.servers.getgo.com^
-||gtmfsstatic.getgoogletagmanager.com^
 ||getgx.net^
 ||getherelf.com^
 ||analytics.getinflow.io^
@@ -30139,8 +30138,6 @@
 ||clarity.psychic.readings.googlepages.com^
 ||googles.video^
 ||googlesyndication.com^
-||googletagmanager-cn.com^
-||googletagservices-cn.com^
 ||afs.googleusercontent.com^
 ||rferl.c.goolara.net^
 ||goole20.shop^
@@ -30156,7 +30153,8 @@
 ||goosebomb.com^
 ||qahxwy.goosecreekcandle.com^
 ||goosierappetit.com^
-||goourl.me^
+||goourl
+||.me^
 ||app.gopack.com^
 ||t.gopack.com^
 ||vip.gophersport.com^
